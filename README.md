@@ -6,9 +6,9 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mritunjay-singhh" alt="mritunjay-singhh" /></a> </p>
 - 👀 I’m interested in web design
 
-- 🔭 I’m currently Working In **Full Stack Development**
+- 🔭 I’m currently Working In **Front-End-Developlement**
 
-- 🌱 I’m Complete learning **Front-End-Developlement**
+- 🌱 I’m Complete learning **Full Stack Development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/MRITUNJAY-SINGHH](https://github.com/MRITUNJAY-SINGHH)
 
