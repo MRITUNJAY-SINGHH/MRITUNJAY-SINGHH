@@ -25,14 +25,10 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Mritunjay-Singhh&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
----
-[![](https://visitcount.itsvg.in/api?id=Mritunjay-Singhh&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-[![Mritunjay's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Mritunjay-Singhh&theme=github-compact)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+[![Mritunjay's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Mritunjay-Singhh&theme=github-compact)](https://github.com/Mritunjay-Singhh)
 
 
 
